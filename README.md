@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/190063/screenshots/994583/appzculture_logo.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/nWncH_FhMckAAAAC/kunt-black-kunt.gif"  />
 
 ###
 
@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sampanna_Barakoti/Sampanna-Barakoti/output/snake.svg" alt="Snake animation" />
 
 ###
